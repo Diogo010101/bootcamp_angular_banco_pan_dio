@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+/*Barra de Navegação TOPO*/
+
+.menu_principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.voltar{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.voltar span{
+    font-size: 40px;
+}
+
+.menu_lista{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.menu_lista span{
+    font-size: 40px;
+}
+
+/*Section Principal*/
+#section_principal{
+    
+
+}
+
+
+.titulo_principal{
+    padding: 1rem   ;
+}
+
