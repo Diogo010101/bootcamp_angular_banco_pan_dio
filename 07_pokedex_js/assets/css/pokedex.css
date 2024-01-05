@@ -37,6 +37,9 @@
     padding: 10px;
 }
 
+.nome_pokemon{
+    text-transform: capitalize;
+}
 
 .tipo_pokemon {
     justify-content: center;
@@ -61,6 +64,12 @@
     display: flex;
     flex-direction: column;
 
+}
+
+.poke_id img{
+    width: 100px;
+    min-width: 80px;
+    
 }
 
 .number {
